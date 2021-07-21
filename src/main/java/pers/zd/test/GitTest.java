@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("热修");
         System.out.println("热修2");
         System.out.println("热修3");
+        System.out.println("Push Test");
     }
 
 }
